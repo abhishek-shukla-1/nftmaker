@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/neft-generator/static/css/main.bbe2497a.css",
-    "main.js": "/neft-generator/static/js/main.70930ec7.js",
-    "index.html": "/neft-generator/index.html",
-    "main.bbe2497a.css.map": "/neft-generator/static/css/main.bbe2497a.css.map",
-    "main.70930ec7.js.map": "/neft-generator/static/js/main.70930ec7.js.map"
+    "main.css": "/nftmaker/static/css/main.bbe2497a.css",
+    "main.js": "/nftmaker/static/js/main.70930ec7.js",
+    "index.html": "/nftmaker/index.html",
+    "main.bbe2497a.css.map": "/nftmaker/static/css/main.bbe2497a.css.map",
+    "main.70930ec7.js.map": "/nftmaker/static/js/main.70930ec7.js.map"
   },
   "entrypoints": [
     "static/css/main.bbe2497a.css",
